@@ -13,4 +13,4 @@
 
 ## Notes:
 - When using the diary, always put `.pckl` on the end of the file name and when loading in a diary entry.
-- Currently only works on Windows 7, 8 and 10. 
+- Currently only works on Windows `7`, `8` and `10`. 
